@@ -7,3 +7,4 @@ class ApiResponse {
         this.success = statusCode 
     }
 }
+module.exports = ApiResponse;
